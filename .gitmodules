@@ -1,0 +1,9 @@
+[submodule "TIC"]
+	path = TIC
+	url = https://github.com/tencentyun/TIC.git
+[submodule "src/lgy"]
+	path = src/lgy
+	url = https://github.com/tencentyun/TIC.git
+[submodule "packages/wrtc/src/BaseKits"]
+	path = packages/wrtc/src/BaseKits
+	url = https://github.com/tencentyun/TIC.git
